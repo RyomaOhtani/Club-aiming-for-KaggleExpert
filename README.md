@@ -4,7 +4,7 @@ Kaggleエキスパートを目指す会
 [チームでの今後の進め方]
 
 1. Slackのチャンネルの趣旨
-   general : 会議の日程調整、または全員に共有しておくこと
+   general : 会議の日程調整、または全員に共有しておくこと \
    kaggle  : Githubの通知
    submission : Submissionした時の日時や提出に関するメンバーへの通知など
    
